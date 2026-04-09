@@ -100,10 +100,10 @@ This plugin uses
 [`gatsby-source-graphql`](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-graphql#readme)
 to merge the PostGraphile GraphQL schema into Gatsby's.
 
-## Customising
+## Customizing
 
 This plugin is powered by PostGraphile, which is built on the highly flexible
-and customisable Graphile Engine.
+and customizable Graphile Engine.
 
 You can add to `options` most of the
 [PostGraphile V4-compatibility options](https://postgraphile.org/postgraphile/5/migrating-from-v4)
