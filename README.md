@@ -37,7 +37,7 @@ And please give some love to our featured sponsors 🤩:
 
 ## Usage
 
-Compatible with Gatsby `^4` and `^5`.
+Compatible with Gatsby `^5`.
 
 To install:
 
@@ -147,3 +147,12 @@ Pop into the Graphile Discord:
 - [Gatsby documentation](https://www.gatsbyjs.com/docs/)
 - [gatsby-source-pg-example](https://github.com/graphile/gatsby-source-pg-example/)
 - [PostGraphile documentation](https://postgraphile.org/postgraphile/5/)
+
+## Development
+
+Useful commands when developing locally:
+
+- `yarn eslint`
+- `yarn lint:fix`
+- `yarn prettier`
+- `yarn test`
